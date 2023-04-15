@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 // Images
-import Image from '../assets/avatar.svg'
+import Image from '../assets/avatar.png'
 // Icons 
 import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 // Type animation
